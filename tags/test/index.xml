@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test | Random Ramblings</title>
+    <link>/tags/test/</link>
+      <atom:link href="/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <description>test</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Alberto Raimondi 2019-2020</copyright><lastBuildDate>Sat, 01 Feb 2020 18:59:52 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>test</title>
+      <link>/tags/test/</link>
+    </image>
+    
+    <item>
+      <title>My Article Name</title>
+      <link>/post/new_article-copy/</link>
+      <pubDate>Sat, 01 Feb 2020 18:59:52 +0100</pubDate>
+      <guid>/post/new_article-copy/</guid>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;for i in test:
+    print(i)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;$$\alpha^2_1=3$$&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;div&gt;
+    Here&amp;rsquo;s some important information&amp;hellip;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Command&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;hugo&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Build your website.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;hugo serve -w&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;View your website.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse condimentum mollis nulla, a lacinia justo ornare sit amet. Proin hendrerit tempor pharetra. Curabitur imperdiet magna vitae metus viverra, vel fermentum enim blandit. Praesent tempor, magna et congue iaculis, ex ex fringilla tellus, sed hendrerit justo velit a libero. Ut non leo a eros malesuada malesuada sit amet at orci. Maecenas elementum, massa quis dapibus efficitur, turpis augue consequat elit, ut interdum ligula ante in sem. Aenean non mattis sem. Nulla varius quis velit quis vehicula.&lt;/p&gt;
+&lt;p&gt;Ut efficitur eu lorem vel blandit. Pellentesque efficitur nunc a risus fringilla tempus. Suspendisse id enim rutrum, suscipit tortor quis, porttitor lorem. Nunc at ligula elit. Maecenas sed lorem placerat, vulputate diam et, mattis elit. Donec ullamcorper blandit nisi nec interdum. Integer eget ex volutpat, sagittis nibh ac, pulvinar velit. Sed in tristique leo, ac sollicitudin massa. Praesent facilisis nulla vestibulum, ultricies leo a, gravida nibh. In faucibus, ipsum at pulvinar venenatis, nunc mi euismod odio, ut facilisis leo nisi a ipsum.&lt;/p&gt;
+&lt;p&gt;Phasellus varius mi non finibus cursus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus porta quam est, vitae hendrerit quam blandit id. Mauris mattis augue vel aliquam maximus. Cras est nisl, pulvinar id nisl eu, malesuada efficitur orci. Aenean dapibus sollicitudin rhoncus. Pellentesque laoreet maximus nisi, ut pretium enim tincidunt eget. Proin auctor non orci ac placerat. Fusce eleifend hendrerit lacus eu ultricies. Nunc id metus luctus lectus finibus tempus vehicula eu quam. Nulla facilisi. Praesent ullamcorper a turpis ultricies vulputate. Morbi placerat et felis ut posuere. Nulla mi mi, imperdiet nec cursus at, consequat sit amet nisl.&lt;/p&gt;
+&lt;p&gt;Aenean posuere nibh orci, ac iaculis arcu varius aliquam. Cras pellentesque aliquam diam, nec ultrices dolor laoreet pretium. Cras condimentum, massa a venenatis posuere, urna justo accumsan nulla, id consequat augue dui nec est. Quisque elit purus, venenatis vitae ultrices quis, porta nec lacus. Fusce sodales est a magna elementum tincidunt. Vestibulum a convallis mauris. Fusce non cursus dui. Praesent id diam ullamcorper, semper nibh eu, vehicula urna. Ut porta lectus sit amet enim sagittis congue. Praesent consequat scelerisque eros at malesuada.&lt;/p&gt;
+&lt;p&gt;Duis pretium metus eu feugiat tincidunt. Donec non diam rutrum est sagittis dictum eget vitae justo. Nunc vehicula vitae enim at ultrices. Nullam volutpat lectus sit amet laoreet tristique. Nulla vel lacus scelerisque, elementum eros nec, porta urna. Morbi aliquam magna vehicula nunc porta, a pharetra odio congue. Curabitur a fringilla ligula. Maecenas finibus eros eu lacus scelerisque molestie. Ut tincidunt venenatis quam non fermentum. Cras tempor id nunc sit amet auctor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam et est consectetur ex auctor sollicitudin sed ut lacus. Suspendisse lacinia et nisl eu cursus. Sed aliquam ac lorem ut porta. Donec eget est eget orci vestibulum iaculis. Nam vestibulum lectus sit amet interdum pulvinar.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
