@@ -2,8 +2,8 @@
   "name": "Random Ramblings",
   "short_name": "Random Ramblings",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "hsl(339, 90%, 68%)",
+  "background_color": "hsl(339, 90%, 68%)",
   "icons": [{
     "src": "/images/icon_hu6c3e0460bdc8551315ee635791325bb4_32749_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
