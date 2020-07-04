@@ -7,7 +7,7 @@
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Alberto Raimondi 2019-2020</copyright><lastBuildDate>Sat, 01 Feb 2020 19:15:06 +0100</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <url>/images/icon_hu6c3e0460bdc8551315ee635791325bb4_32749_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
@@ -19,14 +19,6 @@
       <guid>/project/my-project-name/</guid>
       <description>&lt;p&gt;ciaooooo&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>My Projects</title>
-      <link>/projects_show/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/projects_show/</guid>
-      <description></description>
     </item>
     
   </channel>

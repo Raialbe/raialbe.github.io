@@ -7,21 +7,10 @@
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Alberto Raimondi 2019-2020</copyright><lastBuildDate>Sat, 01 Feb 2020 18:59:52 +0100</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <url>/images/icon_hu6c3e0460bdc8551315ee635791325bb4_32749_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
-    
-    <item>
-      <title></title>
-      <link>/authors/alberto/</link>
-      <pubDate>Sat, 01 Feb 2020 18:59:52 +0100</pubDate>
-      <guid>/authors/alberto/</guid>
-      <description>&lt;p&gt;Hi, I&amp;rsquo;m Alberto and I&amp;rsquo;m a researcher specialized in deep learning.&lt;br&gt;
-I&amp;rsquo;m currently working on the field of computer vision but my main interests are knowledge representation, artificial intelligence, math and computer science.&lt;br&gt;
-I&amp;rsquo;m currently living in Milan.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

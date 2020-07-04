@@ -7,7 +7,7 @@
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Alberto Raimondi 2019-2020</copyright><lastBuildDate>Sat, 01 Feb 2020 18:59:52 +0100</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:square]</url>
+      <url>/images/icon_hu6c3e0460bdc8551315ee635791325bb4_32749_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
@@ -55,14 +55,6 @@
 &lt;p&gt;Aenean posuere nibh orci, ac iaculis arcu varius aliquam. Cras pellentesque aliquam diam, nec ultrices dolor laoreet pretium. Cras condimentum, massa a venenatis posuere, urna justo accumsan nulla, id consequat augue dui nec est. Quisque elit purus, venenatis vitae ultrices quis, porta nec lacus. Fusce sodales est a magna elementum tincidunt. Vestibulum a convallis mauris. Fusce non cursus dui. Praesent id diam ullamcorper, semper nibh eu, vehicula urna. Ut porta lectus sit amet enim sagittis congue. Praesent consequat scelerisque eros at malesuada.&lt;/p&gt;
 &lt;p&gt;Duis pretium metus eu feugiat tincidunt. Donec non diam rutrum est sagittis dictum eget vitae justo. Nunc vehicula vitae enim at ultrices. Nullam volutpat lectus sit amet laoreet tristique. Nulla vel lacus scelerisque, elementum eros nec, porta urna. Morbi aliquam magna vehicula nunc porta, a pharetra odio congue. Curabitur a fringilla ligula. Maecenas finibus eros eu lacus scelerisque molestie. Ut tincidunt venenatis quam non fermentum. Cras tempor id nunc sit amet auctor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam et est consectetur ex auctor sollicitudin sed ut lacus. Suspendisse lacinia et nisl eu cursus. Sed aliquam ac lorem ut porta. Donec eget est eget orci vestibulum iaculis. Nam vestibulum lectus sit amet interdum pulvinar.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Blog</title>
-      <link>/posts_show/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/posts_show/</guid>
-      <description></description>
     </item>
     
   </channel>
