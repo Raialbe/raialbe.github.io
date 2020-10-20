@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Random Ramblings</title>
+    <title>Alberto Raimondi</title>
     <link>/authors/alberto/</link>
       <atom:link href="/authors/alberto/index.xml" rel="self" type="application/rss+xml" />
-    <description>Random Ramblings</description>
+    <description>Alberto Raimondi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Alberto Raimondi 2019-2020</copyright>
     <image>
       <url>/images/icon_hu6c3e0460bdc8551315ee635791325bb4_32749_512x512_fill_lanczos_center_2.png</url>
-      <title>Random Ramblings</title>
+      <title>Alberto Raimondi</title>
       <link>/authors/alberto/</link>
     </image>
     

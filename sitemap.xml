@@ -3,23 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/project/my-project-name/</loc>
-    <lastmod>2020-02-01T21:09:01+01:00</lastmod>
+    <loc>/publications/aesa-beamforming/</loc>
+    <lastmod>2020-10-20T17:32:27+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
-    <lastmod>2020-02-01T21:09:01+01:00</lastmod>
+    <loc>/authors/alberto-raimondi/</loc>
+    <lastmod>2020-10-20T17:32:27+02:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-03-03T19:11:04+01:00</lastmod>
+    <lastmod>2020-10-20T17:32:27+02:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-03-03T19:11:04+01:00</lastmod>
+    <lastmod>2020-10-20T17:32:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2020-10-20T17:32:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/</loc>
+    <lastmod>2020-10-20T17:32:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-10-20T17:32:27+02:00</lastmod>
   </url>
   
   <url>
@@ -39,11 +54,6 @@
   
   <url>
     <loc>/categories/prova/</loc>
-    <lastmod>2020-02-01T21:09:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-02-01T21:09:01+01:00</lastmod>
   </url>
   
@@ -68,8 +78,18 @@
   </url>
   
   <url>
+    <loc>/home/</loc>
+    <lastmod>2020-10-20T17:11:28+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/projects_show/</loc>
     <lastmod>2020-02-01T21:09:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications_page/</loc>
+    <lastmod>2020-10-20T17:32:27+02:00</lastmod>
   </url>
   
   <url>
