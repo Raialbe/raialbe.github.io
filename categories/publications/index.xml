@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep Learning | Alberto Raimondi</title>
-    <link>/tags/deep-learning/</link>
-      <atom:link href="/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>Deep Learning</description>
+    <title>Publications | Alberto Raimondi</title>
+    <link>/categories/publications/</link>
+      <atom:link href="/categories/publications/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Alberto Raimondi 2019-2020</copyright><lastBuildDate>Tue, 01 Sep 2020 19:15:06 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu6c3e0460bdc8551315ee635791325bb4_32749_512x512_fill_lanczos_center_2.png</url>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
+      <title>Publications</title>
+      <link>/categories/publications/</link>
     </image>
     
     <item>
