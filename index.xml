@@ -68,14 +68,6 @@
     </item>
     
     <item>
-      <title>About Me!</title>
-      <link>/about/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Blog</title>
       <link>/posts_show/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
