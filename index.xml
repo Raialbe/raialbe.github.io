@@ -14,9 +14,9 @@
     
     <item>
       <title>Aesa adaptive beamforming using Deep Learning.</title>
-      <link>/project/aesa-beamforming/</link>
+      <link>/projects/aesa-beamforming/</link>
       <pubDate>Tue, 01 Sep 2020 19:15:06 +0100</pubDate>
-      <guid>/project/aesa-beamforming/</guid>
+      <guid>/projects/aesa-beamforming/</guid>
       <description>&lt;p&gt;Bianco, S., Feo, M., Napoletano, P., Petraglia, G., Raimondi, A., Vinetti, P., 2020. Aesa adaptive beamforming using deep learning.&lt;/p&gt;
 &lt;p&gt;Accepted to: 2020 IEEE Radar Conference. IEEE, p. in press.&lt;/p&gt;
 </description>
@@ -68,6 +68,22 @@
     </item>
     
     <item>
+      <title>About Me!</title>
+      <link>/about/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>/posts_show/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/posts_show/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Contact Me!</title>
       <link>/contact/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -77,9 +93,9 @@
     
     <item>
       <title>Home</title>
-      <link>/about/</link>
+      <link>/home/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/about/</guid>
+      <guid>/home/</guid>
       <description>&lt;p&gt;+++&lt;/p&gt;
 &lt;h1 id=&#34;homepage&#34;&gt;Homepage&lt;/h1&gt;
 &lt;p&gt;type = &amp;ldquo;widget_page&amp;rdquo;
@@ -90,9 +106,9 @@ headless = true  # Homepage is headless, other widget pages are not.
     
     <item>
       <title>Projects &amp; Publications</title>
-      <link>/projects/</link>
+      <link>/publications_page/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/projects/</guid>
+      <guid>/publications_page/</guid>
       <description></description>
     </item>
     
