@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tools | Alberto Raimondi</title>
-    <link>raialbe.github.io/tag/tools/</link>
-      <atom:link href="raialbe.github.io/tag/tools/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/tools/</link>
+      <atom:link href="/tag/tools/index.xml" rel="self" type="application/rss+xml" />
     <description>tools</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©Alberto Raimondi 2019-2022</copyright><lastBuildDate>Wed, 13 Oct 2021 13:58:00 +0200</lastBuildDate>
     <image>
-      <url>/raialbe.github.io/media/icon_hu6c3e0460bdc8551315ee635791325bb4_32749_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu6c3e0460bdc8551315ee635791325bb4_32749_512x512_fill_lanczos_center_3.png</url>
       <title>tools</title>
-      <link>raialbe.github.io/tag/tools/</link>
+      <link>/tag/tools/</link>
     </image>
     
     <item>
       <title>Taking control of your life with org mode</title>
-      <link>raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/</link>
+      <link>/posts/taking_control_of_your_life_with_org_mode/</link>
       <pubDate>Wed, 13 Oct 2021 13:58:00 +0200</pubDate>
-      <guid>raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/</guid>
+      <guid>/posts/taking_control_of_your_life_with_org_mode/</guid>
       <description>&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
   &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
@@ -102,10 +102,10 @@ This turns managing a long list of big files into a breeze thanks to the hierarc
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-01-03_CopyQ.bLryCU_hu5da06b2a1f4070b0db3e178041e86c94_104946_f3ceb9960cc80257c71a8a98f55ce98b.webp 400w,
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-01-03_CopyQ.bLryCU_hu5da06b2a1f4070b0db3e178041e86c94_104946_1cc9cafbb8e0eb0c20bf21c9041dc21d.webp 760w,
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-01-03_CopyQ.bLryCU_hu5da06b2a1f4070b0db3e178041e86c94_104946_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;raialbe.github.io/raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-01-03_CopyQ.bLryCU_hu5da06b2a1f4070b0db3e178041e86c94_104946_f3ceb9960cc80257c71a8a98f55ce98b.webp&#34;
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-01-03_CopyQ.bLryCU_hu5da06b2a1f4070b0db3e178041e86c94_104946_f3ceb9960cc80257c71a8a98f55ce98b.webp 400w,
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-01-03_CopyQ.bLryCU_hu5da06b2a1f4070b0db3e178041e86c94_104946_1cc9cafbb8e0eb0c20bf21c9041dc21d.webp 760w,
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-01-03_CopyQ.bLryCU_hu5da06b2a1f4070b0db3e178041e86c94_104946_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-01-03_CopyQ.bLryCU_hu5da06b2a1f4070b0db3e178041e86c94_104946_f3ceb9960cc80257c71a8a98f55ce98b.webp&#34;
                width=&#34;748&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -132,10 +132,10 @@ This turns managing a long list of big files into a breeze thanks to the hierarc
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-25-29_CopyQ.FkURid_hu7f98358f1a5dfd1709a29f44f5608e4a_186624_e9af9622c444f723231e2aae3d1aef63.webp 400w,
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-25-29_CopyQ.FkURid_hu7f98358f1a5dfd1709a29f44f5608e4a_186624_66371790ea4871196e5fbea5893b6f52.webp 760w,
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-25-29_CopyQ.FkURid_hu7f98358f1a5dfd1709a29f44f5608e4a_186624_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;raialbe.github.io/raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-25-29_CopyQ.FkURid_hu7f98358f1a5dfd1709a29f44f5608e4a_186624_e9af9622c444f723231e2aae3d1aef63.webp&#34;
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-25-29_CopyQ.FkURid_hu7f98358f1a5dfd1709a29f44f5608e4a_186624_e9af9622c444f723231e2aae3d1aef63.webp 400w,
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-25-29_CopyQ.FkURid_hu7f98358f1a5dfd1709a29f44f5608e4a_186624_66371790ea4871196e5fbea5893b6f52.webp 760w,
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-25-29_CopyQ.FkURid_hu7f98358f1a5dfd1709a29f44f5608e4a_186624_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-25-29_CopyQ.FkURid_hu7f98358f1a5dfd1709a29f44f5608e4a_186624_e9af9622c444f723231e2aae3d1aef63.webp&#34;
                width=&#34;730&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -162,10 +162,10 @@ This turns managing a long list of big files into a breeze thanks to the hierarc
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-58-57_CopyQ.xpSXZi_hu0ba457870cba6379a88bed9f069d77ce_192001_9ce186c84d43bf1b874cbdcfb109486c.webp 400w,
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-58-57_CopyQ.xpSXZi_hu0ba457870cba6379a88bed9f069d77ce_192001_3fb62cc1070d8efad8de06dfb36d6085.webp 760w,
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-58-57_CopyQ.xpSXZi_hu0ba457870cba6379a88bed9f069d77ce_192001_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;raialbe.github.io/raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-58-57_CopyQ.xpSXZi_hu0ba457870cba6379a88bed9f069d77ce_192001_9ce186c84d43bf1b874cbdcfb109486c.webp&#34;
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-58-57_CopyQ.xpSXZi_hu0ba457870cba6379a88bed9f069d77ce_192001_9ce186c84d43bf1b874cbdcfb109486c.webp 400w,
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-58-57_CopyQ.xpSXZi_hu0ba457870cba6379a88bed9f069d77ce_192001_3fb62cc1070d8efad8de06dfb36d6085.webp 760w,
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-58-57_CopyQ.xpSXZi_hu0ba457870cba6379a88bed9f069d77ce_192001_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-58-57_CopyQ.xpSXZi_hu0ba457870cba6379a88bed9f069d77ce_192001_9ce186c84d43bf1b874cbdcfb109486c.webp&#34;
                width=&#34;751&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -197,10 +197,10 @@ The best thing about this is that it is totally personalizable with tags, priori
 &lt;figure  id=&#34;figure-figure-1-my-daily-org-agenda-with-different-sections-some-entries-are-censored-for-privacy&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1: My daily org agenda with different sections (some entries are censored for privacy)&#34; srcset=&#34;
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-47-16_agenda_hu810f90501f945b3c6c957dcd626b52a3_155596_17ac1ed19dcd9aceaea46d511c4587ea.webp 400w,
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-47-16_agenda_hu810f90501f945b3c6c957dcd626b52a3_155596_fad7b49528bd2b885ef674480a4f4575.webp 760w,
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-47-16_agenda_hu810f90501f945b3c6c957dcd626b52a3_155596_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;raialbe.github.io/raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-47-16_agenda_hu810f90501f945b3c6c957dcd626b52a3_155596_17ac1ed19dcd9aceaea46d511c4587ea.webp&#34;
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-47-16_agenda_hu810f90501f945b3c6c957dcd626b52a3_155596_17ac1ed19dcd9aceaea46d511c4587ea.webp 400w,
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-47-16_agenda_hu810f90501f945b3c6c957dcd626b52a3_155596_fad7b49528bd2b885ef674480a4f4575.webp 760w,
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-47-16_agenda_hu810f90501f945b3c6c957dcd626b52a3_155596_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-47-16_agenda_hu810f90501f945b3c6c957dcd626b52a3_155596_17ac1ed19dcd9aceaea46d511c4587ea.webp&#34;
                width=&#34;704&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -230,10 +230,10 @@ The best thing about this is that it is totally personalizable with tags, priori
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-57-27_CopyQ.WkMZhJ_hu448cd2ce73edbcbfa5b17f223e27986e_96351_04bacb20ac1062da8faa617ed5284d1d.webp 400w,
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-57-27_CopyQ.WkMZhJ_hu448cd2ce73edbcbfa5b17f223e27986e_96351_d24ab3bc59ee835b7fe4751e64daa107.webp 760w,
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-57-27_CopyQ.WkMZhJ_hu448cd2ce73edbcbfa5b17f223e27986e_96351_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;raialbe.github.io/raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-57-27_CopyQ.WkMZhJ_hu448cd2ce73edbcbfa5b17f223e27986e_96351_04bacb20ac1062da8faa617ed5284d1d.webp&#34;
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-57-27_CopyQ.WkMZhJ_hu448cd2ce73edbcbfa5b17f223e27986e_96351_04bacb20ac1062da8faa617ed5284d1d.webp 400w,
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-57-27_CopyQ.WkMZhJ_hu448cd2ce73edbcbfa5b17f223e27986e_96351_d24ab3bc59ee835b7fe4751e64daa107.webp 760w,
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-57-27_CopyQ.WkMZhJ_hu448cd2ce73edbcbfa5b17f223e27986e_96351_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-57-27_CopyQ.WkMZhJ_hu448cd2ce73edbcbfa5b17f223e27986e_96351_04bacb20ac1062da8faa617ed5284d1d.webp&#34;
                width=&#34;760&#34;
                height=&#34;228&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -261,10 +261,10 @@ With the addition of a couple of ad-hoc written functions, I can link any org en
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-11-57_table_hu646b2b019253582560e69f29c54aa95e_147537_0b174bcd01b4b7b356e5aa0bf83c1601.webp 400w,
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-11-57_table_hu646b2b019253582560e69f29c54aa95e_147537_ca86ee8529211fdb29074edfbf4f915f.webp 760w,
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-11-57_table_hu646b2b019253582560e69f29c54aa95e_147537_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;raialbe.github.io/raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-11-57_table_hu646b2b019253582560e69f29c54aa95e_147537_0b174bcd01b4b7b356e5aa0bf83c1601.webp&#34;
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-11-57_table_hu646b2b019253582560e69f29c54aa95e_147537_0b174bcd01b4b7b356e5aa0bf83c1601.webp 400w,
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-11-57_table_hu646b2b019253582560e69f29c54aa95e_147537_ca86ee8529211fdb29074edfbf4f915f.webp 760w,
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-11-57_table_hu646b2b019253582560e69f29c54aa95e_147537_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-11-57_table_hu646b2b019253582560e69f29c54aa95e_147537_0b174bcd01b4b7b356e5aa0bf83c1601.webp&#34;
                width=&#34;751&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -291,10 +291,10 @@ With the addition of a couple of ad-hoc written functions, I can link any org en
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-10_11-54-58_CopyQ.ujUOAn_hu7e96cca05f4132e783e3b52882d31082_33157_4e642d9d6323f9bce773ad2f82c27c14.webp 400w,
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-10_11-54-58_CopyQ.ujUOAn_hu7e96cca05f4132e783e3b52882d31082_33157_f58e12e7c397d0137fa1b52dce207683.webp 760w,
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-10_11-54-58_CopyQ.ujUOAn_hu7e96cca05f4132e783e3b52882d31082_33157_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;raialbe.github.io/raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-10_11-54-58_CopyQ.ujUOAn_hu7e96cca05f4132e783e3b52882d31082_33157_4e642d9d6323f9bce773ad2f82c27c14.webp&#34;
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-10_11-54-58_CopyQ.ujUOAn_hu7e96cca05f4132e783e3b52882d31082_33157_4e642d9d6323f9bce773ad2f82c27c14.webp 400w,
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-10_11-54-58_CopyQ.ujUOAn_hu7e96cca05f4132e783e3b52882d31082_33157_f58e12e7c397d0137fa1b52dce207683.webp 760w,
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-10_11-54-58_CopyQ.ujUOAn_hu7e96cca05f4132e783e3b52882d31082_33157_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/posts/taking_control_of_your_life_with_org_mode/2021-10-10_11-54-58_CopyQ.ujUOAn_hu7e96cca05f4132e783e3b52882d31082_33157_4e642d9d6323f9bce773ad2f82c27c14.webp&#34;
                width=&#34;760&#34;
                height=&#34;199&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

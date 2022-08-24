@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alberto Raimondi</title>
-    <link>raialbe.github.io/</link>
-      <atom:link href="raialbe.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Alberto Raimondi</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©Alberto Raimondi 2019-2022</copyright><lastBuildDate>Mon, 22 Aug 2022 14:13:00 +0200</lastBuildDate>
     <image>
-      <url>/raialbe.github.io/media/icon_hu6c3e0460bdc8551315ee635791325bb4_32749_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu6c3e0460bdc8551315ee635791325bb4_32749_512x512_fill_lanczos_center_3.png</url>
       <title>Alberto Raimondi</title>
-      <link>raialbe.github.io/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>U-WeAr: User Recognition  on  Wearable  Devices  through  Arm  Gesture</title>
-      <link>raialbe.github.io/projects/uwear/</link>
+      <link>/projects/uwear/</link>
       <pubDate>Mon, 22 Aug 2022 14:13:00 +0200</pubDate>
-      <guid>raialbe.github.io/projects/uwear/</guid>
+      <guid>/projects/uwear/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Bianco Simone, Napoletano Paolo, Raimondi Alberto, Rima Mirko
 &lt;strong&gt;Published in&lt;/strong&gt;: &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9774362&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Transactions on Human-Machine Systems&lt;/a&gt; ( Volume: 52, Issue: 4, August 2022)&lt;/p&gt;
 &lt;p&gt;In this article, we present a hardware/software system for arm gesture recognition, identity recognition, and verification of a person based on inertial sensors. The hardware part is a custom wristband that consists of a computing unit, a wireless communication unit, and an inertial sensor. The software part is an algorithm based on recurrent neural networks that is able to process the signals coming from the sensor and to return a prediction.
@@ -32,9 +32,9 @@ These symbols are performed by 33 subjects. We conduct two evaluations:&lt;/p&gt
     
     <item>
       <title>Taking control of your life with org mode</title>
-      <link>raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/</link>
+      <link>/posts/taking_control_of_your_life_with_org_mode/</link>
       <pubDate>Wed, 13 Oct 2021 13:58:00 +0200</pubDate>
-      <guid>raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/</guid>
+      <guid>/posts/taking_control_of_your_life_with_org_mode/</guid>
       <description>&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
   &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
@@ -120,10 +120,10 @@ This turns managing a long list of big files into a breeze thanks to the hierarc
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-01-03_CopyQ.bLryCU_hu5da06b2a1f4070b0db3e178041e86c94_104946_f3ceb9960cc80257c71a8a98f55ce98b.webp 400w,
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-01-03_CopyQ.bLryCU_hu5da06b2a1f4070b0db3e178041e86c94_104946_1cc9cafbb8e0eb0c20bf21c9041dc21d.webp 760w,
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-01-03_CopyQ.bLryCU_hu5da06b2a1f4070b0db3e178041e86c94_104946_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;raialbe.github.io/raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-01-03_CopyQ.bLryCU_hu5da06b2a1f4070b0db3e178041e86c94_104946_f3ceb9960cc80257c71a8a98f55ce98b.webp&#34;
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-01-03_CopyQ.bLryCU_hu5da06b2a1f4070b0db3e178041e86c94_104946_f3ceb9960cc80257c71a8a98f55ce98b.webp 400w,
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-01-03_CopyQ.bLryCU_hu5da06b2a1f4070b0db3e178041e86c94_104946_1cc9cafbb8e0eb0c20bf21c9041dc21d.webp 760w,
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-01-03_CopyQ.bLryCU_hu5da06b2a1f4070b0db3e178041e86c94_104946_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-01-03_CopyQ.bLryCU_hu5da06b2a1f4070b0db3e178041e86c94_104946_f3ceb9960cc80257c71a8a98f55ce98b.webp&#34;
                width=&#34;748&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -150,10 +150,10 @@ This turns managing a long list of big files into a breeze thanks to the hierarc
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-25-29_CopyQ.FkURid_hu7f98358f1a5dfd1709a29f44f5608e4a_186624_e9af9622c444f723231e2aae3d1aef63.webp 400w,
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-25-29_CopyQ.FkURid_hu7f98358f1a5dfd1709a29f44f5608e4a_186624_66371790ea4871196e5fbea5893b6f52.webp 760w,
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-25-29_CopyQ.FkURid_hu7f98358f1a5dfd1709a29f44f5608e4a_186624_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;raialbe.github.io/raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-25-29_CopyQ.FkURid_hu7f98358f1a5dfd1709a29f44f5608e4a_186624_e9af9622c444f723231e2aae3d1aef63.webp&#34;
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-25-29_CopyQ.FkURid_hu7f98358f1a5dfd1709a29f44f5608e4a_186624_e9af9622c444f723231e2aae3d1aef63.webp 400w,
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-25-29_CopyQ.FkURid_hu7f98358f1a5dfd1709a29f44f5608e4a_186624_66371790ea4871196e5fbea5893b6f52.webp 760w,
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-25-29_CopyQ.FkURid_hu7f98358f1a5dfd1709a29f44f5608e4a_186624_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-25-29_CopyQ.FkURid_hu7f98358f1a5dfd1709a29f44f5608e4a_186624_e9af9622c444f723231e2aae3d1aef63.webp&#34;
                width=&#34;730&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -180,10 +180,10 @@ This turns managing a long list of big files into a breeze thanks to the hierarc
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-58-57_CopyQ.xpSXZi_hu0ba457870cba6379a88bed9f069d77ce_192001_9ce186c84d43bf1b874cbdcfb109486c.webp 400w,
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-58-57_CopyQ.xpSXZi_hu0ba457870cba6379a88bed9f069d77ce_192001_3fb62cc1070d8efad8de06dfb36d6085.webp 760w,
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-58-57_CopyQ.xpSXZi_hu0ba457870cba6379a88bed9f069d77ce_192001_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;raialbe.github.io/raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-58-57_CopyQ.xpSXZi_hu0ba457870cba6379a88bed9f069d77ce_192001_9ce186c84d43bf1b874cbdcfb109486c.webp&#34;
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-58-57_CopyQ.xpSXZi_hu0ba457870cba6379a88bed9f069d77ce_192001_9ce186c84d43bf1b874cbdcfb109486c.webp 400w,
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-58-57_CopyQ.xpSXZi_hu0ba457870cba6379a88bed9f069d77ce_192001_3fb62cc1070d8efad8de06dfb36d6085.webp 760w,
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-58-57_CopyQ.xpSXZi_hu0ba457870cba6379a88bed9f069d77ce_192001_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-58-57_CopyQ.xpSXZi_hu0ba457870cba6379a88bed9f069d77ce_192001_9ce186c84d43bf1b874cbdcfb109486c.webp&#34;
                width=&#34;751&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -215,10 +215,10 @@ The best thing about this is that it is totally personalizable with tags, priori
 &lt;figure  id=&#34;figure-figure-1-my-daily-org-agenda-with-different-sections-some-entries-are-censored-for-privacy&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1: My daily org agenda with different sections (some entries are censored for privacy)&#34; srcset=&#34;
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-47-16_agenda_hu810f90501f945b3c6c957dcd626b52a3_155596_17ac1ed19dcd9aceaea46d511c4587ea.webp 400w,
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-47-16_agenda_hu810f90501f945b3c6c957dcd626b52a3_155596_fad7b49528bd2b885ef674480a4f4575.webp 760w,
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-47-16_agenda_hu810f90501f945b3c6c957dcd626b52a3_155596_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;raialbe.github.io/raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-47-16_agenda_hu810f90501f945b3c6c957dcd626b52a3_155596_17ac1ed19dcd9aceaea46d511c4587ea.webp&#34;
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-47-16_agenda_hu810f90501f945b3c6c957dcd626b52a3_155596_17ac1ed19dcd9aceaea46d511c4587ea.webp 400w,
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-47-16_agenda_hu810f90501f945b3c6c957dcd626b52a3_155596_fad7b49528bd2b885ef674480a4f4575.webp 760w,
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-47-16_agenda_hu810f90501f945b3c6c957dcd626b52a3_155596_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-47-16_agenda_hu810f90501f945b3c6c957dcd626b52a3_155596_17ac1ed19dcd9aceaea46d511c4587ea.webp&#34;
                width=&#34;704&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -248,10 +248,10 @@ The best thing about this is that it is totally personalizable with tags, priori
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-57-27_CopyQ.WkMZhJ_hu448cd2ce73edbcbfa5b17f223e27986e_96351_04bacb20ac1062da8faa617ed5284d1d.webp 400w,
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-57-27_CopyQ.WkMZhJ_hu448cd2ce73edbcbfa5b17f223e27986e_96351_d24ab3bc59ee835b7fe4751e64daa107.webp 760w,
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-57-27_CopyQ.WkMZhJ_hu448cd2ce73edbcbfa5b17f223e27986e_96351_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;raialbe.github.io/raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-57-27_CopyQ.WkMZhJ_hu448cd2ce73edbcbfa5b17f223e27986e_96351_04bacb20ac1062da8faa617ed5284d1d.webp&#34;
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-57-27_CopyQ.WkMZhJ_hu448cd2ce73edbcbfa5b17f223e27986e_96351_04bacb20ac1062da8faa617ed5284d1d.webp 400w,
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-57-27_CopyQ.WkMZhJ_hu448cd2ce73edbcbfa5b17f223e27986e_96351_d24ab3bc59ee835b7fe4751e64daa107.webp 760w,
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-57-27_CopyQ.WkMZhJ_hu448cd2ce73edbcbfa5b17f223e27986e_96351_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-57-27_CopyQ.WkMZhJ_hu448cd2ce73edbcbfa5b17f223e27986e_96351_04bacb20ac1062da8faa617ed5284d1d.webp&#34;
                width=&#34;760&#34;
                height=&#34;228&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -279,10 +279,10 @@ With the addition of a couple of ad-hoc written functions, I can link any org en
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-11-57_table_hu646b2b019253582560e69f29c54aa95e_147537_0b174bcd01b4b7b356e5aa0bf83c1601.webp 400w,
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-11-57_table_hu646b2b019253582560e69f29c54aa95e_147537_ca86ee8529211fdb29074edfbf4f915f.webp 760w,
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-11-57_table_hu646b2b019253582560e69f29c54aa95e_147537_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;raialbe.github.io/raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-11-57_table_hu646b2b019253582560e69f29c54aa95e_147537_0b174bcd01b4b7b356e5aa0bf83c1601.webp&#34;
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-11-57_table_hu646b2b019253582560e69f29c54aa95e_147537_0b174bcd01b4b7b356e5aa0bf83c1601.webp 400w,
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-11-57_table_hu646b2b019253582560e69f29c54aa95e_147537_ca86ee8529211fdb29074edfbf4f915f.webp 760w,
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-11-57_table_hu646b2b019253582560e69f29c54aa95e_147537_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-11-57_table_hu646b2b019253582560e69f29c54aa95e_147537_0b174bcd01b4b7b356e5aa0bf83c1601.webp&#34;
                width=&#34;751&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -309,10 +309,10 @@ With the addition of a couple of ad-hoc written functions, I can link any org en
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-10_11-54-58_CopyQ.ujUOAn_hu7e96cca05f4132e783e3b52882d31082_33157_4e642d9d6323f9bce773ad2f82c27c14.webp 400w,
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-10_11-54-58_CopyQ.ujUOAn_hu7e96cca05f4132e783e3b52882d31082_33157_f58e12e7c397d0137fa1b52dce207683.webp 760w,
-               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-10_11-54-58_CopyQ.ujUOAn_hu7e96cca05f4132e783e3b52882d31082_33157_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;raialbe.github.io/raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-10_11-54-58_CopyQ.ujUOAn_hu7e96cca05f4132e783e3b52882d31082_33157_4e642d9d6323f9bce773ad2f82c27c14.webp&#34;
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-10_11-54-58_CopyQ.ujUOAn_hu7e96cca05f4132e783e3b52882d31082_33157_4e642d9d6323f9bce773ad2f82c27c14.webp 400w,
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-10_11-54-58_CopyQ.ujUOAn_hu7e96cca05f4132e783e3b52882d31082_33157_f58e12e7c397d0137fa1b52dce207683.webp 760w,
+               /posts/taking_control_of_your_life_with_org_mode/2021-10-10_11-54-58_CopyQ.ujUOAn_hu7e96cca05f4132e783e3b52882d31082_33157_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/posts/taking_control_of_your_life_with_org_mode/2021-10-10_11-54-58_CopyQ.ujUOAn_hu7e96cca05f4132e783e3b52882d31082_33157_4e642d9d6323f9bce773ad2f82c27c14.webp&#34;
                width=&#34;760&#34;
                height=&#34;199&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -362,9 +362,9 @@ By integrating org-mode with &lt;a href=&#34;https://www.zotero.org/&#34; target
     
     <item>
       <title>U-Net for Medical Image Segmentation</title>
-      <link>raialbe.github.io/projects/unet_for_medical_segmentation/</link>
+      <link>/projects/unet_for_medical_segmentation/</link>
       <pubDate>Mon, 27 Sep 2021 00:00:00 +0200</pubDate>
-      <guid>raialbe.github.io/projects/unet_for_medical_segmentation/</guid>
+      <guid>/projects/unet_for_medical_segmentation/</guid>
       <description>&lt;p&gt;In this project, I helped researchers of &lt;a href=&#34;https://www.unimi.it/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Università Degli Studi di Milano Statale&lt;/a&gt; to implement a fully automatic image segmentation model working with 2D, 3D, and 4D data.&lt;br /&gt;
 The implemented model was a U-net architecture for medical image segmentation based on the &lt;a href=&#34;https://github.com/MIC-DKFZ/nnUNet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;nnUNet&lt;/a&gt; project.&lt;br /&gt;
 The results of this project are being used to research the possibility of automating craniofacial MRI and CT scans to improve the speed with which doctors can access meaningful patient analysis results.&lt;/p&gt;
@@ -387,10 +387,10 @@ The results of this project are being used to research the possibility of automa
 &lt;figure  id=&#34;figure-figure-1-an-example-of-the-resulting-segmentation-of-a-human-abdomen&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1: An example of the resulting segmentation of a human abdomen.&#34; srcset=&#34;
-               /raialbe.github.io/projects/unet_for_medical_segmentation/2021-11-22_18-20-42_segmentation_hub996f2047cb67abdf4359bd5751c4072_152353_121dd5e3150a660558e4b39902a6ccb8.webp 400w,
-               /raialbe.github.io/projects/unet_for_medical_segmentation/2021-11-22_18-20-42_segmentation_hub996f2047cb67abdf4359bd5751c4072_152353_479442b47a46644be4adfcdcaaad673d.webp 760w,
-               /raialbe.github.io/projects/unet_for_medical_segmentation/2021-11-22_18-20-42_segmentation_hub996f2047cb67abdf4359bd5751c4072_152353_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;raialbe.github.io/raialbe.github.io/projects/unet_for_medical_segmentation/2021-11-22_18-20-42_segmentation_hub996f2047cb67abdf4359bd5751c4072_152353_121dd5e3150a660558e4b39902a6ccb8.webp&#34;
+               /projects/unet_for_medical_segmentation/2021-11-22_18-20-42_segmentation_hub996f2047cb67abdf4359bd5751c4072_152353_121dd5e3150a660558e4b39902a6ccb8.webp 400w,
+               /projects/unet_for_medical_segmentation/2021-11-22_18-20-42_segmentation_hub996f2047cb67abdf4359bd5751c4072_152353_479442b47a46644be4adfcdcaaad673d.webp 760w,
+               /projects/unet_for_medical_segmentation/2021-11-22_18-20-42_segmentation_hub996f2047cb67abdf4359bd5751c4072_152353_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/projects/unet_for_medical_segmentation/2021-11-22_18-20-42_segmentation_hub996f2047cb67abdf4359bd5751c4072_152353_121dd5e3150a660558e4b39902a6ccb8.webp&#34;
                width=&#34;760&#34;
                height=&#34;546&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -402,9 +402,9 @@ The results of this project are being used to research the possibility of automa
     
     <item>
       <title>AESA adaptive beamforming using Deep Learning.</title>
-      <link>raialbe.github.io/projects/aesabeamforming/</link>
+      <link>/projects/aesabeamforming/</link>
       <pubDate>Sun, 25 Oct 2020 15:54:00 +0100</pubDate>
-      <guid>raialbe.github.io/projects/aesabeamforming/</guid>
+      <guid>/projects/aesabeamforming/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Bianco Simone, Feo Maurizio, Napoletano Paolo, Petraglia Giovanni, Raimondi Alberto, Vinetti Pietro.
 &lt;strong&gt;Published in&lt;/strong&gt;: &lt;a href=&#34;https://ieeexplore.ieee.org/xpl/conhome/9266310/proceeding&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2020 IEEE Radar Conference (RadarConf20)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;In this research paper, we explored the possibility of implementing state-of-the-art deep learning techniques to perform fast one-pass beamforming of electromagnetic signals to speed up interference counter-measures in adversarial scenarios.
@@ -414,9 +414,9 @@ We encode the signal into a 2D image to allow the use of computationally efficie
     
     <item>
       <title>Come si “costruisce” l’artista musicale di successo? Chiedilo a Spotify</title>
-      <link>raialbe.github.io/projects/spotiwhy/</link>
+      <link>/projects/spotiwhy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0200</pubDate>
-      <guid>raialbe.github.io/projects/spotiwhy/</guid>
+      <guid>/projects/spotiwhy/</guid>
       <description>&lt;p&gt;In this article published on the infodata section of the the IlSole24Ore website we conducted a brief descriptive  analysis of the key features of spotify hit songs of the year.
 &lt;a href=&#34;https://www.infodata.ilsole24ore.com/2018/06/28/si-costruisce-lartista-musicale-successo-chiedilo-spotify/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Come si &amp;ldquo;costruisce&amp;rdquo; l&amp;rsquo;artista musicale di successo? Chiedilo a Spotify&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;​A. Raimondi, D. Meloni, S. Santamaria - 2018&lt;/p&gt;
@@ -425,41 +425,41 @@ We encode the signal into a 2D image to allow the use of computationally efficie
     
     <item>
       <title></title>
-      <link>raialbe.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>raialbe.github.io/about/</guid>
+      <guid>/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>raialbe.github.io/admin/config.yml</link>
+      <link>/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>raialbe.github.io/admin/config.yml</guid>
+      <guid>/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>raialbe.github.io/blog/</link>
+      <link>/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>raialbe.github.io/blog/</guid>
+      <guid>/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>raialbe.github.io/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>raialbe.github.io/contact/</guid>
+      <guid>/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>raialbe.github.io/showcase/</link>
+      <link>/showcase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>raialbe.github.io/showcase/</guid>
+      <guid>/showcase/</guid>
       <description></description>
     </item>
     

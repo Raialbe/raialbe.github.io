@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Alberto Raimondi</title>
-    <link>raialbe.github.io/tag/publications/</link>
-      <atom:link href="raialbe.github.io/tag/publications/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/publications/</link>
+      <atom:link href="/tag/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©Alberto Raimondi 2019-2022</copyright><lastBuildDate>Mon, 22 Aug 2022 14:13:00 +0200</lastBuildDate>
     <image>
-      <url>/raialbe.github.io/media/icon_hu6c3e0460bdc8551315ee635791325bb4_32749_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu6c3e0460bdc8551315ee635791325bb4_32749_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>raialbe.github.io/tag/publications/</link>
+      <link>/tag/publications/</link>
     </image>
     
     <item>
       <title>U-WeAr: User Recognition  on  Wearable  Devices  through  Arm  Gesture</title>
-      <link>raialbe.github.io/projects/uwear/</link>
+      <link>/projects/uwear/</link>
       <pubDate>Mon, 22 Aug 2022 14:13:00 +0200</pubDate>
-      <guid>raialbe.github.io/projects/uwear/</guid>
+      <guid>/projects/uwear/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Bianco Simone, Napoletano Paolo, Raimondi Alberto, Rima Mirko
 &lt;strong&gt;Published in&lt;/strong&gt;: &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9774362&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Transactions on Human-Machine Systems&lt;/a&gt; ( Volume: 52, Issue: 4, August 2022)&lt;/p&gt;
 &lt;p&gt;In this article, we present a hardware/software system for arm gesture recognition, identity recognition, and verification of a person based on inertial sensors. The hardware part is a custom wristband that consists of a computing unit, a wireless communication unit, and an inertial sensor. The software part is an algorithm based on recurrent neural networks that is able to process the signals coming from the sensor and to return a prediction.
@@ -32,9 +32,9 @@ These symbols are performed by 33 subjects. We conduct two evaluations:&lt;/p&gt
     
     <item>
       <title>AESA adaptive beamforming using Deep Learning.</title>
-      <link>raialbe.github.io/projects/aesabeamforming/</link>
+      <link>/projects/aesabeamforming/</link>
       <pubDate>Sun, 25 Oct 2020 15:54:00 +0100</pubDate>
-      <guid>raialbe.github.io/projects/aesabeamforming/</guid>
+      <guid>/projects/aesabeamforming/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Bianco Simone, Feo Maurizio, Napoletano Paolo, Petraglia Giovanni, Raimondi Alberto, Vinetti Pietro.
 &lt;strong&gt;Published in&lt;/strong&gt;: &lt;a href=&#34;https://ieeexplore.ieee.org/xpl/conhome/9266310/proceeding&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2020 IEEE Radar Conference (RadarConf20)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;In this research paper, we explored the possibility of implementing state-of-the-art deep learning techniques to perform fast one-pass beamforming of electromagnetic signals to speed up interference counter-measures in adversarial scenarios.
@@ -44,9 +44,9 @@ We encode the signal into a 2D image to allow the use of computationally efficie
     
     <item>
       <title>Come si “costruisce” l’artista musicale di successo? Chiedilo a Spotify</title>
-      <link>raialbe.github.io/projects/spotiwhy/</link>
+      <link>/projects/spotiwhy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0200</pubDate>
-      <guid>raialbe.github.io/projects/spotiwhy/</guid>
+      <guid>/projects/spotiwhy/</guid>
       <description>&lt;p&gt;In this article published on the infodata section of the the IlSole24Ore website we conducted a brief descriptive  analysis of the key features of spotify hit songs of the year.
 &lt;a href=&#34;https://www.infodata.ilsole24ore.com/2018/06/28/si-costruisce-lartista-musicale-successo-chiedilo-spotify/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Come si &amp;ldquo;costruisce&amp;rdquo; l&amp;rsquo;artista musicale di successo? Chiedilo a Spotify&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;​A. Raimondi, D. Meloni, S. Santamaria - 2018&lt;/p&gt;
