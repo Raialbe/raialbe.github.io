@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Alberto Raimondi</title>
+    <link>raialbe.github.io/tag/projects/</link>
+      <atom:link href="raialbe.github.io/tag/projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©Alberto Raimondi 2019-2022</copyright><lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/raialbe.github.io/media/icon_hu6c3e0460bdc8551315ee635791325bb4_32749_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>raialbe.github.io/tag/projects/</link>
+    </image>
+    
+    <item>
+      <title>U-Net for Medical Image Segmentation</title>
+      <link>raialbe.github.io/projects/unet_for_medical_segmentation/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0200</pubDate>
+      <guid>raialbe.github.io/projects/unet_for_medical_segmentation/</guid>
+      <description>&lt;p&gt;In this project, I helped researchers of &lt;a href=&#34;https://www.unimi.it/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Università Degli Studi di Milano Statale&lt;/a&gt; to implement a fully automatic image segmentation model working with 2D, 3D, and 4D data.&lt;br /&gt;
+The implemented model was a U-net architecture for medical image segmentation based on the &lt;a href=&#34;https://github.com/MIC-DKFZ/nnUNet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;nnUNet&lt;/a&gt; project.&lt;br /&gt;
+The results of this project are being used to research the possibility of automating craniofacial MRI and CT scans to improve the speed with which doctors can access meaningful patient analysis results.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-1-an-example-of-the-resulting-segmentation-of-a-human-abdomen&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1: An example of the resulting segmentation of a human abdomen.&#34; srcset=&#34;
+               /raialbe.github.io/projects/unet_for_medical_segmentation/2021-11-22_18-20-42_segmentation_hub996f2047cb67abdf4359bd5751c4072_152353_121dd5e3150a660558e4b39902a6ccb8.webp 400w,
+               /raialbe.github.io/projects/unet_for_medical_segmentation/2021-11-22_18-20-42_segmentation_hub996f2047cb67abdf4359bd5751c4072_152353_479442b47a46644be4adfcdcaaad673d.webp 760w,
+               /raialbe.github.io/projects/unet_for_medical_segmentation/2021-11-22_18-20-42_segmentation_hub996f2047cb67abdf4359bd5751c4072_152353_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;raialbe.github.io/raialbe.github.io/projects/unet_for_medical_segmentation/2021-11-22_18-20-42_segmentation_hub996f2047cb67abdf4359bd5751c4072_152353_121dd5e3150a660558e4b39902a6ccb8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;546&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;span class=&#34;figure-number&#34;&gt;Figure 1: &lt;/span&gt;An example of the resulting segmentation of a human abdomen.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

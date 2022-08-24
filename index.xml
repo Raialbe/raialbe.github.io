@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alberto Raimondi</title>
+    <link>raialbe.github.io/</link>
+      <atom:link href="raialbe.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alberto Raimondi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©Alberto Raimondi 2019-2022</copyright><lastBuildDate>Mon, 22 Aug 2022 14:13:00 +0200</lastBuildDate>
+    <image>
+      <url>/raialbe.github.io/media/icon_hu6c3e0460bdc8551315ee635791325bb4_32749_512x512_fill_lanczos_center_3.png</url>
+      <title>Alberto Raimondi</title>
+      <link>raialbe.github.io/</link>
+    </image>
+    
+    <item>
+      <title>U-WeAr: User Recognition  on  Wearable  Devices  through  Arm  Gesture</title>
+      <link>raialbe.github.io/projects/uwear/</link>
+      <pubDate>Mon, 22 Aug 2022 14:13:00 +0200</pubDate>
+      <guid>raialbe.github.io/projects/uwear/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Bianco Simone, Napoletano Paolo, Raimondi Alberto, Rima Mirko
+&lt;strong&gt;Published in&lt;/strong&gt;: &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9774362&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Transactions on Human-Machine Systems&lt;/a&gt; ( Volume: 52, Issue: 4, August 2022)&lt;/p&gt;
+&lt;p&gt;In this article, we present a hardware/software system for arm gesture recognition, identity recognition, and verification of a person based on inertial sensors. The hardware part is a custom wristband that consists of a computing unit, a wireless communication unit, and an inertial sensor. The software part is an algorithm based on recurrent neural networks that is able to process the signals coming from the sensor and to return a prediction.
+To validate the system, a dataset consisting of 25 symbols drawn with the arm is collected.
+These symbols are performed by 33 subjects. We conduct two evaluations:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;performance evaluation for arm gesture recognition, user recognition and verification&lt;/li&gt;
+&lt;li&gt;usability assessment of the system.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The performance of the three recognition tasks indicate that this system can be reliably applied in real environments with an accuracy above 96% for gesture recognition, an accuracy of about 85% for user identification, and an equal error rate of about 13% for user verification. The outcome of the usability test proves a great satisfaction from the users in terms of high simplicity in the use of the wristband and goodness of the machine learning predictions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Taking control of your life with org mode</title>
+      <link>raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/</link>
+      <pubDate>Wed, 13 Oct 2021 13:58:00 +0200</pubDate>
+      <guid>raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/</guid>
+      <description>&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#what-is-org-mode&#34;&gt;What is Org-mode&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#why-org-mode&#34;&gt;Why Org-mode&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#how-i-use-org-mode&#34;&gt;How I use Org-mode&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#general-inbox&#34;&gt;General inbox&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#dotfiles-management&#34;&gt;Dotfiles management&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#reading-list&#34;&gt;Reading list&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#blog-writing&#34;&gt;Blog writing&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#work-journal&#34;&gt;Work journal&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#personal-scheduling&#34;&gt;Personal scheduling&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#personal-wiki&#34;&gt;Personal wiki&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#searching&#34;&gt;Searching&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#tables&#34;&gt;Tables&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#system-documentation&#34;&gt;System documentation&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#paper-publishing&#34;&gt;Paper publishing&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#tips-and-tricks&#34;&gt;Tips and Tricks&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#org-mode-on-the-go&#34;&gt;Org mode on the go&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#git-integration&#34;&gt;Git integration&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#agenda-speedup&#34;&gt;Agenda speedup&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#why-not-org-mode&#34;&gt;Why not Org-mode&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#where-to-start&#34;&gt;Where to start&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+&lt;p&gt;In the software enthusiasts world, org-mode does not need any presentations, everyone has at least heard someone singing its praises as the end-all organizational software.
+Initially, I did not see the appeal, to me it was just an alternative to markdown syntax with some utilities on top, nothing that a good editor and a couple of scripts could not emulate. I tried to find some examples on the web about why org-mode is considered so awesome and but I found very specific posts that would go deep in a very specific feature or very general ones using org-mode as a simple markdown alternative. After a lot of experimentation and more than a year of using it to organize all sorts of stuff, I decided to write this article to show you what actually is that makes org-mode so amazing.&lt;/p&gt;
+&lt;p&gt;When I started my journey into the personal organization space I found a lot of proponents of the &lt;a href=&#34;https://gettingthingsdone.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GTD method&lt;/a&gt;, and after a brief introduction to it, I found it a good start to base my organizational habits on.
+The GTD method is pretty simple and can be summarized in a couple of paragraphs, even if some people like to overcomplicate it to make it a one size fit all system the basic of GTD is to note down everything that you need to do and organize when to do it while keeping some periodic review to clean up things.
+It is not my intention to delve deep into GTD and its infinite variations that people like to proselytize about, mainly because it is not the focus of this article but also because I think that you have to build your system by yourself piece by piece to make it fit your own way of thinking.
+The good news is that in this article I&amp;rsquo;m talking about how I use org-mode to build this system for myself and hopefully you will be able to take inspiration from this and build your own system.&lt;/p&gt;
+&lt;h2 id=&#34;what-is-org-mode&#34;&gt;What is Org-mode&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://orgmode.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Org mode&lt;/a&gt; is a major mode for the &lt;a href=&#34;https://www.gnu.org/software/emacs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Emacs&lt;/a&gt; text editor. Emacs is one of the two most regarded text editors in the world and along with Vim is one of the most debated pieces of software between software engineers. The philosophies of Vim and Emacs are polar opposites and while Vim focuses on being a fast and minimal text editor, Emacs focuses on being totally extensible.
+The extensibility of Emacs is totally unique in the software world, no other editor or program is as flexible and this is because Emacs is really an interactive programming environment that runs a text editor. A skilled elisp programmer can transform Emacs in whatever he wants with very few limitations on the result.&lt;/p&gt;
+&lt;p&gt;As a result of this extensibility, a lot of different systems are built on Emacs and they are able to interact together in a way that even after years of usage seem magical. The most incredible extension of the Emacs ecosystem is Org-mode. Org-mode is a system that allows for writing, outlining, scheduling, time tracking, publishing, and much more under a single paradigm and makes the interaction between these different tasks intuitive.&lt;/p&gt;
+&lt;h2 id=&#34;why-org-mode&#34;&gt;Why Org-mode&lt;/h2&gt;
+&lt;p&gt;Org-mode is one of those things that is really hard to explain and you really have to see it in action to understand its power. When I talk to people about how I use org-mode they often can&amp;rsquo;t understand the advantages of the system and feel like other systems do what org-mode does but better. This is true in the specific cases, for example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the markdown ecosystem is much more developed than org-mode for publishing content and taking notes&lt;/li&gt;
+&lt;li&gt;calendar tools are more effective at scheduling appointments&lt;/li&gt;
+&lt;li&gt;graph notetaking tools are more immediate at constructing complex graphs of information&lt;/li&gt;
+&lt;li&gt;Jupyter notebooks are better to share pieces of code&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The problem with this line of reasoning is that these tools are extremely isolated: taking notes about a calendar appointment always leads to the note and the appointment being un-linked. Publishing a blog post written in markdown is fast but you often leave it on the website that you have to manually visit to get back. Constructing a graph in roam is effective until you have to manually copy files and pdf text to cite and link resources together.
+The advantage that org-mode has over all these tools is that you can access all these functions together in a way that allows their interaction to give back much more value for your organizational needs.
+In addition to the power of org-mode, you also have all your files in a textual format that can be easily integrated with a VCS like Git to track history and can be synced using software like Dropbox or Syncthing to make it available on all your devices.
+Lastly working with org-mode files is blazing fast, you don&amp;rsquo;t have to wait for any browser page to load and if you are used to vim you can enable evil mode giving you access to an incredible vim emulation layer (it is so good that I prefer it to VIM itself)&lt;/p&gt;
+&lt;p&gt;For an &lt;strong&gt;extreme&lt;/strong&gt; version of how to organize your life with org-mode I suggest you &lt;a href=&#34;http://doc.norang.ca/org-mode.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this article&lt;/a&gt;, however here I will report some of my use cases to show you what you can build with org-mode.&lt;/p&gt;
+&lt;h2 id=&#34;how-i-use-org-mode&#34;&gt;How I use Org-mode&lt;/h2&gt;
+&lt;p&gt;Right now I&amp;rsquo;m using org-mode for the following tasks:&lt;/p&gt;
+&lt;h3 id=&#34;general-inbox&#34;&gt;General inbox&lt;/h3&gt;
+&lt;p&gt;Any time I think of a task to do, something to check out, or an interesting idea I tend to send it to my org-mode inbox. The inbox is a file that is set up so I can send anything to it using a keyboard shortcut when on my PC or by swiping up on an icon when I&amp;rsquo;m on my phone.
+If I add a date to the item it will directly show up on my agenda, otherwise, I will check it and move it to the right section when I review my inbox.
+This makes the system have very low friction when inputting stuff and works very well for randomly jotting down anything I want.
+When I access my inbox I can easily refile any entry to its section (projects, task, idea, etc.) using a keybind.&lt;/p&gt;
+&lt;h3 id=&#34;dotfiles-management&#34;&gt;Dotfiles management&lt;/h3&gt;
+&lt;p&gt;My emacs and Linux system configuration is written as an org-mode file, this allows for navigating through it using org-mode commands and to add comments in a single place. The tangling system allows me to convert this org file into the specific files my system needs using a single command and to enable or disable any part of my config with a few keystrokes.
+This turns managing a long list of big files into a breeze thanks to the hierarchical structure of org files and the ability to fold and move anything easily.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-01-03_CopyQ.bLryCU_hu5da06b2a1f4070b0db3e178041e86c94_104946_f3ceb9960cc80257c71a8a98f55ce98b.webp 400w,
+               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-01-03_CopyQ.bLryCU_hu5da06b2a1f4070b0db3e178041e86c94_104946_1cc9cafbb8e0eb0c20bf21c9041dc21d.webp 760w,
+               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-01-03_CopyQ.bLryCU_hu5da06b2a1f4070b0db3e178041e86c94_104946_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;raialbe.github.io/raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-01-03_CopyQ.bLryCU_hu5da06b2a1f4070b0db3e178041e86c94_104946_f3ceb9960cc80257c71a8a98f55ce98b.webp&#34;
+               width=&#34;748&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;reading-list&#34;&gt;Reading list&lt;/h3&gt;
+&lt;p&gt;I manage my reading list of articles, videos, books, and all kinds of content using an org-mode file. In this way, I can keep an eye on the things I want to explore and how far along I am.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-25-29_CopyQ.FkURid_hu7f98358f1a5dfd1709a29f44f5608e4a_186624_e9af9622c444f723231e2aae3d1aef63.webp 400w,
+               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-25-29_CopyQ.FkURid_hu7f98358f1a5dfd1709a29f44f5608e4a_186624_66371790ea4871196e5fbea5893b6f52.webp 760w,
+               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-25-29_CopyQ.FkURid_hu7f98358f1a5dfd1709a29f44f5608e4a_186624_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;raialbe.github.io/raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-25-29_CopyQ.FkURid_hu7f98358f1a5dfd1709a29f44f5608e4a_186624_e9af9622c444f723231e2aae3d1aef63.webp&#34;
+               width=&#34;730&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;blog-writing&#34;&gt;Blog writing&lt;/h3&gt;
+&lt;p&gt;This very post is being written in org-mode using the incredible &lt;a href=&#34;https://ox-hugo.scripter.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ox-hugo&lt;/a&gt; package to automatically export changes to my blog.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-58-57_CopyQ.xpSXZi_hu0ba457870cba6379a88bed9f069d77ce_192001_9ce186c84d43bf1b874cbdcfb109486c.webp 400w,
+               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-58-57_CopyQ.xpSXZi_hu0ba457870cba6379a88bed9f069d77ce_192001_3fb62cc1070d8efad8de06dfb36d6085.webp 760w,
+               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-58-57_CopyQ.xpSXZi_hu0ba457870cba6379a88bed9f069d77ce_192001_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;raialbe.github.io/raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-58-57_CopyQ.xpSXZi_hu0ba457870cba6379a88bed9f069d77ce_192001_9ce186c84d43bf1b874cbdcfb109486c.webp&#34;
+               width=&#34;751&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;work-journal&#34;&gt;Work journal&lt;/h3&gt;
+&lt;p&gt;When working on a task I usually put it in a work org-mode file where I take notes about what I need to do and the results of what I&amp;rsquo;m doing. Jotting down small notes or random todos under a task makes it easy to stay focused on the specific thing you are doing while keeping random insights in a place where you can easily find them.
+You can even track the time you are spending on a task using an org clock!&lt;/p&gt;
+&lt;h3 id=&#34;personal-scheduling&#34;&gt;Personal scheduling&lt;/h3&gt;
+&lt;p&gt;Thanks to the org agenda and its customizability my homepage when opening emacs shows me things that I need to keep my eyes on.
+In my main agenda view, I can see the things that I have to do today, the hierarchy of what I need to do to progress on my project, things I&amp;rsquo;m waiting on, and weekly tasks.
+The best thing about this is that it is totally personalizable with tags, priorities, to-do states, and sorting.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-1-my-daily-org-agenda-with-different-sections-some-entries-are-censored-for-privacy&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1: My daily org agenda with different sections (some entries are censored for privacy)&#34; srcset=&#34;
+               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-47-16_agenda_hu810f90501f945b3c6c957dcd626b52a3_155596_17ac1ed19dcd9aceaea46d511c4587ea.webp 400w,
+               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-47-16_agenda_hu810f90501f945b3c6c957dcd626b52a3_155596_fad7b49528bd2b885ef674480a4f4575.webp 760w,
+               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-47-16_agenda_hu810f90501f945b3c6c957dcd626b52a3_155596_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;raialbe.github.io/raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-47-16_agenda_hu810f90501f945b3c6c957dcd626b52a3_155596_17ac1ed19dcd9aceaea46d511c4587ea.webp&#34;
+               width=&#34;704&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;span class=&#34;figure-number&#34;&gt;Figure 1: &lt;/span&gt;My daily org agenda with different sections (some entries are censored for privacy)
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;personal-wiki&#34;&gt;Personal wiki&lt;/h3&gt;
+&lt;p&gt;I keep a kind of big personal wiki with notes and links to things I need to be able to retrieve if needed but that I don&amp;rsquo;t have to memorize. Code snippets, notes about how to do something, or lists of tools are neatly organized in an org-mode hierarchy.&lt;/p&gt;
+&lt;h3 id=&#34;searching&#34;&gt;Searching&lt;/h3&gt;
+&lt;p&gt;Thanks to the ivy package and various org tools all the content of my org-mode files is searchable using a simple keybind.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-57-27_CopyQ.WkMZhJ_hu448cd2ce73edbcbfa5b17f223e27986e_96351_04bacb20ac1062da8faa617ed5284d1d.webp 400w,
+               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-57-27_CopyQ.WkMZhJ_hu448cd2ce73edbcbfa5b17f223e27986e_96351_d24ab3bc59ee835b7fe4751e64daa107.webp 760w,
+               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-57-27_CopyQ.WkMZhJ_hu448cd2ce73edbcbfa5b17f223e27986e_96351_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;raialbe.github.io/raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_17-57-27_CopyQ.WkMZhJ_hu448cd2ce73edbcbfa5b17f223e27986e_96351_04bacb20ac1062da8faa617ed5284d1d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;228&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+With the addition of a couple of ad-hoc written functions, I can link any org entry to any other one using an interactive search interface.&lt;/p&gt;
+&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
+&lt;p&gt;Having access to org-mode tables is incredibly convenient. Not only they are very powerful and have some spreadsheet capabilities but they also live near their task. Having a table of the results under the task that generated them is incredibly convenient when you are trying to find the results of the profiling you spent 8 hours on last month.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-11-57_table_hu646b2b019253582560e69f29c54aa95e_147537_0b174bcd01b4b7b356e5aa0bf83c1601.webp 400w,
+               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-11-57_table_hu646b2b019253582560e69f29c54aa95e_147537_ca86ee8529211fdb29074edfbf4f915f.webp 760w,
+               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-11-57_table_hu646b2b019253582560e69f29c54aa95e_147537_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;raialbe.github.io/raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-09_18-11-57_table_hu646b2b019253582560e69f29c54aa95e_147537_0b174bcd01b4b7b356e5aa0bf83c1601.webp&#34;
+               width=&#34;751&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;system-documentation&#34;&gt;System documentation&lt;/h3&gt;
+&lt;p&gt;When dealing with complex systems we often find little bits of code that work in that specific context and we want to save, or we figure out how to make something work and we want to document how to reproduce it. By using an org-mode file to do this you can access all the snippets and documentation in a fast way with light speed fuzzy search and the ability to run code with a keypress.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-10_11-54-58_CopyQ.ujUOAn_hu7e96cca05f4132e783e3b52882d31082_33157_4e642d9d6323f9bce773ad2f82c27c14.webp 400w,
+               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-10_11-54-58_CopyQ.ujUOAn_hu7e96cca05f4132e783e3b52882d31082_33157_f58e12e7c397d0137fa1b52dce207683.webp 760w,
+               /raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-10_11-54-58_CopyQ.ujUOAn_hu7e96cca05f4132e783e3b52882d31082_33157_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;raialbe.github.io/raialbe.github.io/posts/taking_control_of_your_life_with_org_mode/2021-10-10_11-54-58_CopyQ.ujUOAn_hu7e96cca05f4132e783e3b52882d31082_33157_4e642d9d6323f9bce773ad2f82c27c14.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;199&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;paper-publishing&#34;&gt;Paper publishing&lt;/h3&gt;
+&lt;p&gt;I write scientific documents in org-mode that I can then easily export to latex and HTML. It allows me to use a very intuitive markup system to create complex documents in a fast and easy way. My resume is written in an org-mode file that is then compiled into latex and PDF before sending.
+By integrating org-mode with &lt;a href=&#34;https://www.zotero.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zotero&lt;/a&gt; I can access other papers and cite them automatically in my org files.&lt;/p&gt;
+&lt;h2 id=&#34;tips-and-tricks&#34;&gt;Tips and Tricks&lt;/h2&gt;
+&lt;h3 id=&#34;org-mode-on-the-go&#34;&gt;Org mode on the go&lt;/h3&gt;
+&lt;p&gt;A big part of today&amp;rsquo;s life is to be on the go. We are used to getting all of our data whenever we want and wherever we are and if an organizational system cannot give us the freedom to use it when we need it that&amp;rsquo;s a dealbreaker. In the case of org-mode and emacs, there are two main ways to solve this problem. The first is the hardest and most time-consuming one and is reserved if you really need all the functions emacs can offer whenever you want. The solution is to install emacs on your phone.&lt;/p&gt;
+&lt;p&gt;Installing emacs on your phone is not that hard using termux and another couple of tools, but using emacs and its keyboard-centric interface on a phone is very user-unfriendly and I do not recommend it.&lt;/p&gt;
+&lt;p&gt;The second solution and my preferred one is to use an application for your phone, that can be &lt;a href=&#34;http://www.orgzly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Orgzly&lt;/a&gt; for android or &lt;a href=&#34;https://beorgapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Beorg&lt;/a&gt; for IOS. With both these applications, you will be able to see and manage your system without having access to a PC and keep your tasks and notes up to date.&lt;/p&gt;
+&lt;p&gt;You probably noticed that there is still a missing piece of this puzzle and that is the syncing of your files. Org-mode works very nicely with syncing systems and orgzly can use a local folder on your phone to automatically get up-to-date files. My recommendation for syncing your org-mode files and in general anything you need to sync is &lt;a href=&#34;https://syncthing.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Syncthing&lt;/a&gt;, an amazing open-source piece of software that will make sync free and seamless.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;Orgzly does not directly work on the org-mode files but parses them and rewrites them each time. This leads to a lot of sync conflicts in your folder if you do not let the app update the files each time you change them on your other devices.&lt;/p&gt;
+&lt;p&gt;After a lot of searching, I found an effective solution for this problem by using the following &lt;a href=&#34;https://tasker.joaoapps.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tasker&lt;/a&gt; action.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Action: com.orgzly.intent.action.SYNC_START
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Package: com.orgzly
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Class: com.orgzly.android.ActionReceiver
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Target: Broadcast Receiver
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;You can decide to link it to any phone event to be called whenever you prefer and keep your orgzly files and org-mode files in sync seamlessly.&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;A wise thing to do on your emacs configuration when using syncing between devices is to enable autorevert mode to reflect the changes on the files immediately on your PC.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-emacs-lisp&#34; data-lang=&#34;emacs-lisp&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;use-package&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;autorevert&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;global-auto-revert-mode&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;setq&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;auto-revert-use-notify&lt;/span&gt; &lt;span class=&#34;no&#34;&gt;t&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;setq&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;auto-revert-avoid-polling&lt;/span&gt; &lt;span class=&#34;no&#34;&gt;t&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;git-integration&#34;&gt;Git integration&lt;/h3&gt;
+&lt;p&gt;Version controlling all your org-mode files in a git repository is a very effective way to keep a history of your files and never lose anything. You can even combine it with an automatic script that runs every hour or so to commit your changes to a remote repository and have a backup.&lt;/p&gt;
+&lt;h3 id=&#34;agenda-speedup&#34;&gt;Agenda speedup&lt;/h3&gt;
+&lt;p&gt;One of the most useful tricks to use with your org agenda if it takes a bit of time to load is to keep it cached.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-lisp&#34; data-lang=&#34;lisp&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;setq&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;org-agenda-sticky&lt;/span&gt; &lt;span class=&#34;no&#34;&gt;t&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;why-not-org-mode&#34;&gt;Why not Org-mode&lt;/h2&gt;
+&lt;p&gt;It would not be fair to finish this section without talking about the drawbacks of the whole org-mode ecosystem. The price to pay for the flexibility of emacs is to be paid in complexity. You can download todoist or vscode and start using them effectively in 5 minutes. This is not the case for Emacs and org-mode. The learning curve of Emacs is incredibly steep and I went close to giving up on it multiple times before seeing the incredible advantages of the system. If you have ever managed to learn vim you will probably be familiar with the initial frustration of trying to do something that should be intuitive in an unfamiliar way. You would also know that after putting time into learning the tool the gain in productivity is unmeasurable and hard to explain to outsiders.&lt;/p&gt;
+&lt;h2 id=&#34;where-to-start&#34;&gt;Where to start&lt;/h2&gt;
+&lt;p&gt;A full guide on using org-mode is out of the scope of this article, however, my suggestion, if you want to embark on this journey, is to check out the two following resources:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/c/SystemCrafters&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The System Crafters youtube channel&lt;/a&gt; where you can find many videos that show you how to build your personal emacs and org-mode configuration&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hlissner/doom-emacs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Doom Emacs repo&lt;/a&gt; that is a distribution of Emacs that comes with an amazingly good default configuration and an incredible tooling system that makes building your personal emacs much more fun.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>U-Net for Medical Image Segmentation</title>
+      <link>raialbe.github.io/projects/unet_for_medical_segmentation/</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0200</pubDate>
+      <guid>raialbe.github.io/projects/unet_for_medical_segmentation/</guid>
+      <description>&lt;p&gt;In this project, I helped researchers of &lt;a href=&#34;https://www.unimi.it/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Università Degli Studi di Milano Statale&lt;/a&gt; to implement a fully automatic image segmentation model working with 2D, 3D, and 4D data.&lt;br /&gt;
+The implemented model was a U-net architecture for medical image segmentation based on the &lt;a href=&#34;https://github.com/MIC-DKFZ/nnUNet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;nnUNet&lt;/a&gt; project.&lt;br /&gt;
+The results of this project are being used to research the possibility of automating craniofacial MRI and CT scans to improve the speed with which doctors can access meaningful patient analysis results.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-1-an-example-of-the-resulting-segmentation-of-a-human-abdomen&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1: An example of the resulting segmentation of a human abdomen.&#34; srcset=&#34;
+               /raialbe.github.io/projects/unet_for_medical_segmentation/2021-11-22_18-20-42_segmentation_hub996f2047cb67abdf4359bd5751c4072_152353_121dd5e3150a660558e4b39902a6ccb8.webp 400w,
+               /raialbe.github.io/projects/unet_for_medical_segmentation/2021-11-22_18-20-42_segmentation_hub996f2047cb67abdf4359bd5751c4072_152353_479442b47a46644be4adfcdcaaad673d.webp 760w,
+               /raialbe.github.io/projects/unet_for_medical_segmentation/2021-11-22_18-20-42_segmentation_hub996f2047cb67abdf4359bd5751c4072_152353_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;raialbe.github.io/raialbe.github.io/projects/unet_for_medical_segmentation/2021-11-22_18-20-42_segmentation_hub996f2047cb67abdf4359bd5751c4072_152353_121dd5e3150a660558e4b39902a6ccb8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;546&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      &lt;span class=&#34;figure-number&#34;&gt;Figure 1: &lt;/span&gt;An example of the resulting segmentation of a human abdomen.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AESA adaptive beamforming using Deep Learning.</title>
+      <link>raialbe.github.io/projects/aesabeamforming/</link>
+      <pubDate>Sun, 25 Oct 2020 15:54:00 +0100</pubDate>
+      <guid>raialbe.github.io/projects/aesabeamforming/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Bianco Simone, Feo Maurizio, Napoletano Paolo, Petraglia Giovanni, Raimondi Alberto, Vinetti Pietro.
+&lt;strong&gt;Published in&lt;/strong&gt;: &lt;a href=&#34;https://ieeexplore.ieee.org/xpl/conhome/9266310/proceeding&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2020 IEEE Radar Conference (RadarConf20)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In this research paper, we explored the possibility of implementing state-of-the-art deep learning techniques to perform fast one-pass beamforming of electromagnetic signals to speed up interference counter-measures in adversarial scenarios.
+We encode the signal into a 2D image to allow the use of computationally efficient convolutional neural networks to solve the beamforming task in a single pass of the network, skipping the slower iterative optimization approaches.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Come si “costruisce” l’artista musicale di successo? Chiedilo a Spotify</title>
+      <link>raialbe.github.io/projects/spotiwhy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0200</pubDate>
+      <guid>raialbe.github.io/projects/spotiwhy/</guid>
+      <description>&lt;p&gt;In this article published on the infodata section of the the IlSole24Ore website we conducted a brief descriptive  analysis of the key features of spotify hit songs of the year.
+&lt;a href=&#34;https://www.infodata.ilsole24ore.com/2018/06/28/si-costruisce-lartista-musicale-successo-chiedilo-spotify/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Come si &amp;ldquo;costruisce&amp;rdquo; l&amp;rsquo;artista musicale di successo? Chiedilo a Spotify&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;​A. Raimondi, D. Meloni, S. Santamaria - 2018&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>raialbe.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>raialbe.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>raialbe.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>raialbe.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>raialbe.github.io/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>raialbe.github.io/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>raialbe.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>raialbe.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>raialbe.github.io/showcase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>raialbe.github.io/showcase/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
