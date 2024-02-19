@@ -309,19 +309,15 @@ By integrating org-mode with &lt;a href=&#34;https://www.zotero.org/&#34; target
 &lt;p&gt;Installing emacs on your phone is not that hard using termux and another couple of tools, but using emacs and its keyboard-centric interface on a phone is very user-unfriendly and I do not recommend it.&lt;/p&gt;
 &lt;p&gt;The second solution and my preferred one is to use an application for your phone, that can be &lt;a href=&#34;http://www.orgzly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Orgzly&lt;/a&gt; for android or &lt;a href=&#34;https://beorgapp.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Beorg&lt;/a&gt; for IOS. With both these applications, you will be able to see and manage your system without having access to a PC and keep your tasks and notes up to date.&lt;/p&gt;
 &lt;p&gt;You probably noticed that there is still a missing piece of this puzzle and that is the syncing of your files. Org-mode works very nicely with syncing systems and orgzly can use a local folder on your phone to automatically get up-to-date files. My recommendation for syncing your org-mode files and in general anything you need to sync is &lt;a href=&#34;https://syncthing.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Syncthing&lt;/a&gt;, an amazing open-source piece of software that will make sync free and seamless.&lt;/p&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    &lt;p&gt;Orgzly does not directly work on the org-mode files but parses them and rewrites them each time. This leads to a lot of sync conflicts in your folder if you do not let the app update the files each time you change them on your other devices.&lt;/p&gt;
+&lt;p&gt;#+begin callout&lt;/p&gt;
+&lt;p&gt;Orgzly does not directly work on the org-mode files but parses them and rewrites them each time. This leads to a lot of sync conflicts in your folder if you do not let the app update the files each time you change them on your other devices.&lt;/p&gt;
 &lt;p&gt;After a lot of searching, I found an effective solution for this problem by using the following &lt;a href=&#34;https://tasker.joaoapps.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tasker&lt;/a&gt; action.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Action: com.orgzly.intent.action.SYNC_START
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Package: com.orgzly
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Class: com.orgzly.android.ActionReceiver
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Target: Broadcast Receiver
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;You can decide to link it to any phone event to be called whenever you prefer and keep your orgzly files and org-mode files in sync seamlessly.&lt;/p&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;You can decide to link it to any phone event to be called whenever you prefer and keep your orgzly files and org-mode files in sync seamlessly.
+#+end callout&lt;/p&gt;
 &lt;p&gt;A wise thing to do on your emacs configuration when using syncing between devices is to enable autorevert mode to reflect the changes on the files immediately on your PC.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-emacs-lisp&#34; data-lang=&#34;emacs-lisp&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;use-package&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;autorevert&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;global-auto-revert-mode&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;

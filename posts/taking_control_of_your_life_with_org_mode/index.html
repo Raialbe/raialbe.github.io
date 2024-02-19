@@ -687,7 +687,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/files/curriculum.pdf"><span>Download CV</span></a>
+            <a class="nav-link " href="/files/resume.pdf"><span>My Resume</span></a>
           </li>
 
           
@@ -1139,19 +1139,15 @@ By integrating org-mode with <a href="https://www.zotero.org/" target="_blank" r
 <p>Installing emacs on your phone is not that hard using termux and another couple of tools, but using emacs and its keyboard-centric interface on a phone is very user-unfriendly and I do not recommend it.</p>
 <p>The second solution and my preferred one is to use an application for your phone, that can be <a href="http://www.orgzly.com/" target="_blank" rel="noopener">Orgzly</a> for android or <a href="https://beorgapp.com/" target="_blank" rel="noopener">Beorg</a> for IOS. With both these applications, you will be able to see and manage your system without having access to a PC and keep your tasks and notes up to date.</p>
 <p>You probably noticed that there is still a missing piece of this puzzle and that is the syncing of your files. Org-mode works very nicely with syncing systems and orgzly can use a local folder on your phone to automatically get up-to-date files. My recommendation for syncing your org-mode files and in general anything you need to sync is <a href="https://syncthing.net/" target="_blank" rel="noopener">Syncthing</a>, an amazing open-source piece of software that will make sync free and seamless.</p>
-<div class="alert alert-note">
-  <div>
-    <p>Orgzly does not directly work on the org-mode files but parses them and rewrites them each time. This leads to a lot of sync conflicts in your folder if you do not let the app update the files each time you change them on your other devices.</p>
+<p>#+begin callout</p>
+<p>Orgzly does not directly work on the org-mode files but parses them and rewrites them each time. This leads to a lot of sync conflicts in your folder if you do not let the app update the files each time you change them on your other devices.</p>
 <p>After a lot of searching, I found an effective solution for this problem by using the following <a href="https://tasker.joaoapps.com/" target="_blank" rel="noopener">Tasker</a> action.</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">Action: com.orgzly.intent.action.SYNC_START
 </span></span><span class="line"><span class="cl">Package: com.orgzly
 </span></span><span class="line"><span class="cl">Class: com.orgzly.android.ActionReceiver
 </span></span><span class="line"><span class="cl">Target: Broadcast Receiver
-</span></span></code></pre></div><p>You can decide to link it to any phone event to be called whenever you prefer and keep your orgzly files and org-mode files in sync seamlessly.</p>
-
-  </div>
-</div>
-
+</span></span></code></pre></div><p>You can decide to link it to any phone event to be called whenever you prefer and keep your orgzly files and org-mode files in sync seamlessly.
+#+end callout</p>
 <p>A wise thing to do on your emacs configuration when using syncing between devices is to enable autorevert mode to reflect the changes on the files immediately on your PC.</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-emacs-lisp" data-lang="emacs-lisp"><span class="line"><span class="cl"><span class="p">(</span><span class="nb">use-package</span> <span class="nv">autorevert</span><span class="p">)</span>
 </span></span><span class="line"><span class="cl"><span class="p">(</span><span class="nv">global-auto-revert-mode</span><span class="p">)</span>

@@ -4,15 +4,19 @@
   
   
   <url>
-    <loc>/</loc><lastmod>2022-08-22T14:13:00+02:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/</loc><lastmod>2024-01-16T20:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/tag/deeplearning/</loc><lastmod>2022-08-22T14:13:00+02:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/projects/ai_presentation/</loc><lastmod>2024-01-16T20:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/projects/</loc><lastmod>2022-08-22T14:13:00+02:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>/tag/deeplearning/</loc><lastmod>2024-01-16T20:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/tag/projects/</loc><lastmod>2024-01-16T20:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/projects/</loc><lastmod>2024-01-16T20:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>/tags/</loc><lastmod>2024-01-16T20:30:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/tag/publications/</loc><lastmod>2022-08-22T14:13:00+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/tags/</loc><lastmod>2022-08-22T14:13:00+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/projects/uwear/</loc><lastmod>2022-08-22T14:13:00+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -23,8 +27,6 @@
     <loc>/posts/taking_control_of_your_life_with_org_mode/</loc><lastmod>2021-10-13T13:58:00+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/tag/tools/</loc><lastmod>2021-10-13T13:58:00+02:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/tag/projects/</loc><lastmod>2021-09-27T00:00:00+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/projects/unet_for_medical_segmentation/</loc><lastmod>2021-09-27T00:00:00+02:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

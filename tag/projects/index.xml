@@ -5,12 +5,23 @@
     <link>/tag/projects/</link>
       <atom:link href="/tag/projects/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©Alberto Raimondi 2019-2022</copyright><lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©Alberto Raimondi 2019-2022</copyright><lastBuildDate>Tue, 16 Jan 2024 20:30:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu6c3e0460bdc8551315ee635791325bb4_32749_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>/tag/projects/</link>
     </image>
+    
+    <item>
+      <title>Artificial Intelligence: Decoding the Future</title>
+      <link>/projects/ai_presentation/</link>
+      <pubDate>Tue, 16 Jan 2024 20:30:00 +0000</pubDate>
+      <guid>/projects/ai_presentation/</guid>
+      <description>&lt;p&gt;Recently, I had the opportunity to give a talk about Artificial Intelligence at an event specifically organized by the local Lions Club. During this unique occasion, I engaged with the audience about the transformative potential of AI, discussing how this cutting-edge technology is shaping our future.&lt;/p&gt;
+&lt;p&gt;Throughout the event, I shared my experience as a Machine Learning Engineer, exploring the various ways in which AI is already being integrated into our daily lives and how it can drive innovation and progress. Interactions with guests revealed a growing enthusiasm for the possibilities offered by AI, along with a collective desire to navigate this new horizon with wisdom and responsibility.&lt;/p&gt;
+&lt;p&gt;This stimulating dialogue not only reaffirmed my passion for the field of AI but also underscored the importance of sharing knowledge and visions to collectively build a future that maximizes the potential of new technologies. Gatherings like this are essential for illuminating the path towards a technological adventure that promises excitement and opportunities.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>U-Net for Medical Image Segmentation</title>
